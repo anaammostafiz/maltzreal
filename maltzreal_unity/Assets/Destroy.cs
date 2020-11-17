@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class destroy : MonoBehaviour
+public class Destroy : MonoBehaviour
 {
     void OnCollisionEnter(Collision collision)
     {
