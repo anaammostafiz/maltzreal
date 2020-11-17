@@ -9,7 +9,7 @@ public class Create : MonoBehaviour
     void OnMouseDown()
     {
         GameObject Clone = Instantiate(Duplicate);
-        Clone.transform.position = new Vector3(3, 3, -2);
+        Clone.transform.position = new Vector3(0, 0, 0);
 
     }
 }
